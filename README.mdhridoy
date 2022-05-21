@@ -1,0 +1,1314 @@
+- 👋 Hi, I’m @HridoyHasan2022
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+HridoyHasan2022/HridoyHasan2022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+<html lang="en" class="csstransforms csstransforms3d csstransitions" style="height: auto;"><head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- Custom Modifications
+	================================================== -->
+
+    
+    <!-- Title -->
+    <title>Micronetworkbd</title>
+   
+    <!-- Don't Cache Website on Browser -->
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	
+	<!-- CSS
+	================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Template styles-->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<!-- Animation -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Prettyphoto -->
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<!-- Bxslider -->
+	<link rel="stylesheet" href="css/jquery.bxslider.css">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"></head>
+
+	
+	
+	
+	
+<body style="">
+
+	<div class="body-inner">
+	<!-- Header start -->
+	<header id="header" class="navbar-fixed-top main-nav" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!--/ Top info start -->
+					<div class="top-info">
+						<ul class="pull-right">
+							<li><i class="fa fa-phone"></i> Call Us: 09639150107 | 01722350107 | 01626460661 | 02-55085153</li>
+							<li><i class="fa fa-envelope"></i> info@Micronetworkbd.net</li>
+							<!-- Social links -->
+							<li class="social-icon">
+								<a id="tooltip1" data-toggle="tooltip" data-placement="top" title="Twitter" href="#">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<a id="tooltip2" target="_blank" data-toggle="tooltip" data-placement="top" title="Facebook" href="#">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a id="tooltip3" href="#" data-toggle="tooltip" data-placement="top" title="Google+">
+									<i class="fa fa-google-plus"></i>
+								</a>
+								<a id="tooltip4" href="#" data-toggle="tooltip" data-placement="top" title="Dribble">
+									<i class="fa fa-dribbble"></i>
+								</a>
+							</li><!-- Social links end-->
+						</ul>
+					</div><!--/ Top info end -->
+
+					<!-- Logo start -->
+					<div class="navbar-header">
+					    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					    </button>
+					    <a class="navbar-brand" href="index.html">
+					    	<img class="img-responsive" src="images/logo.png" width="180" height="30" alt="logo">
+					    </a>                    
+					</div><!--/ Logo end -->
+
+						<nav class="collapse navbar-collapse clearfix" role="navigation">
+						<ul class="nav navbar-nav navbar-right">
+	                        <li class="active"><a href="index.html">Home</a></li>
+	                       	<li><a href="about.html">About</a></li>
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">FTP SERVER <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://10.16.100.244/">FTP 01</a></li>
+		                            <li><a target="_blank" href="http://103.58.73.7/">FTP 02 </a></li>
+		                            <li><a target="_blank" href="http://hmidiplex.ne/">FTP 03</a></li>
+									<li><a target="_blank" href="http://172.22.22.76/">TV Chanel</a></li>
+									<li><a target="_blank" href="http://103.214.156.2/">TV Chanel 02</a></li>
+								</ul>
+	                       	</li>
+							
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Bdix <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://www.crazyhd.com/">CARZYHD</a></li>
+                                   	<li><a target="_blank" href="http://www.torrentbd.com/">Torrent Servers</a></li>
+                                   	<li><a target="_blank" href="http://www.yts.am/">YTS</a></li>
+                                    <li><a target="_blank" href="http://new.naturalbd.com/live-tv.html/">Micronetworkbd Live TV</a></li>
+                                   	<li><a target="_blank" href="http://www.jagobd.com/">Jagobd</a></li>
+                                   	<li><a target="_blank" href="http://www.bioscopelive.com/">Bioscope Live</a></li>
+		                        </ul>
+							</li>
+							
+	                       	<li>
+	                       		<a href="price.html" class="dropdown-toggle">Packages</a>
+	                       	</li>
+							
+                            <li class="dropdown">
+	                       		<a href="contact.html" class="dropdown-toggle">Contact <i class="fa fa-caret-down"></i></a>
+							</li>
+	                    </ul>
+					</nav><!--/ Navigation end -->
+					
+					<div class="site-search">
+						<div class="container">
+							<input type="text" placeholder="type what you want and enter">
+							<span class="close">×</span>
+						</div>
+					</div>
+				</div><!--/ Col end -->
+			</div><!--/ Row end -->
+		</div><!--/ Container end -->
+	</header><!--/ Header end -->
+<!-- Slider start -->
+	<section id="home">	
+		<!-- Carousel -->
+    	<div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><!-- /carousel -->    	
+    </section>
+    <!--/ Slider end -->
+	<div class="gap-40"></div>
+
+	<!-- Service box start -->
+    <section id="service" class="wow fadeInUp animated" style="visibility: visible;">
+    	<div class="container">
+    		<div class="row">
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comment img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Online Support</h3>
+					    <p>We also give our Clients Online Support, regarding technical issue's that they are facing from their end.</p>
+					</div>
+				</div><!--/ End first service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comments-o img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>24/7 Customer Care Support</h3>
+					    <p>We provide 24/7 Helpdesk Support on all our Branches.</p>
+					</div>
+				</div><!--/ End 3rd service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content last">
+					    <a href="#."><span class="service-icon"><i class="fa fa-gears (alias) img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Additional Media Services</h3>
+					    <p>Other than the Internet Connection, we also provide Media Services such as - FTP Server, Streaming Server, Torrent Servers, Live TV Server.</p>
+					</div>
+				</div><!--/ End 4th service -->
+    		</div>
+    	</div>
+    </section><!-- Service box end -->
+
+
+
+   <!-- Features start -->
+    <section id="features">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-sm-6 wow fadeInLeft" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-image">
+    					<img class="img-responsive" src="images/feature-mock.png" width="200" height="80" alt="feature img" title="">
+    				</div>
+    			</div>
+
+    			<div class="col-sm-6 wow fadeInRight" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-wrapper">
+	    				<div class="feature-content-wrapper">
+	    					<h2>We do what is necessary</h2>
+	    					<p><strong>Micronetworkbd</strong> is one of the leading High Speed Broadband Service Provider in Dhaka, Bangladesh.</p>
+
+							<div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-signal"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Internet Connectivity</h3>
+					                <p>Most of our Connections are provided via optical fibre from our end to your home and then connected via CAT-5E/CAT-6 to your PC.</p>
+					            </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa  fa-sort-amount-asc"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3><strong>100Mbps Alltime</strong></h3>
+					                <p>All of our Users can download contents that are shared from our Local Dedicated Servers at Full Duplex 100 Mbps Speed.</p>
+			            	  </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-magnet"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Why Clients Choose Us?</h3>
+					                <p>We Provide a very stable Internet connection (few disconnecting issues), rather than the Internet Connection, we also provide some Media Services which is absolutely free and Unlimited (No Fair Usage Policies).</p>
+				            	</div>
+				            </div>
+    					</div>
+    				</div>
+    			</div><!-- Features right side end -->
+    		</div><!-- Row end -->
+    	</div><!-- Container end -->
+    </section> <!-- Features end -->
+	</div><!-- Toggle end -->
+
+	<!-- Main Footer start -->
+	<section id="footer-wrapper">
+		<!-- Footer top start -->
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="footer-about-us">
+							<img src="images/footer-logo.png" alt="">
+							<p class="desc">
+								<strong>Technical Support
+							    <br>09639150107
+								<br>01722350107
+								<br>01626460661
+								<br>02-55085153
+								</strong>
+							</p><p class="footer-social">
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-google-plus"></i></a>
+								<a href="#"><i class="fa fa-dribbble"></i></a>
+							</p>
+					  </div>
+					</div><!--/ end about us -->
+					
+					<div class="col-md-3">
+						<h3 class="footer-title"><span>Facebook <strong>Group</strong></span></h3>
+						<div class="facebook">
+							<div class="fb-like-box" data-href="#" data-width="300" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+							<a target="_blank" href="#" style="color:black;"><p class="facebook"><i class="fa fa-facebook-square"></i> Micronetworkbd</p></a>
+						</div>
+					</div>
+
+					<!--/ end facebook group -->
+
+					<div class="col-md-3">
+						<h3 class="footer-title"><span>Facebook <strong>Page</strong></span></h3>
+						<div class="facebook">
+							<div class="fb-like-box" data-href="#" data-width="300" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+							<a target="_blank" href="#" style="color:black;"><p class="facebook"><i class="fa fa-facebook-square"></i> Micronetworkbd</p></a>
+						</div>
+					</div>
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</footer><!-- Footer top end -->
+
+		<!-- Footer bottom start -->
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 wow fadeInLeft animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						<ul class="footer-bottom-menu">
+							<li><a href="about.html">About Us</a></li>
+	                        <li><a href="contact.html">Contact Us</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2">
+						<a id="back-to-top" href="#" class="scroll-up back-to-top" role="button" title="" data-toggle="tooltip" data-placement="left" data-original-title="Click to return on the top page">
+							<img class="wow flipInY animated" src="images/to-top.png" alt="" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						</a>
+					</div>
+					<div class="col-md-5 wow fadeInRight animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						<div class="copyright-info">
+	         			 © Copyright 2020 | <a target="_blank" href="#">Micronetworkbd</a> <br>
+	         			<span>Developed by <a title="" href="#" target="_blank"> </a> &amp; Powered by <a title="" href="#" target="_blank"></a></span>
+	        			</div>
+					</div>
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</div><!-- Footer bottom end -->
+	</section>
+	<!-- Footer section end -->
+
+	<!-- Javascript Files
+	================================================== -->
+	<!-- initialize jQuery Library -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<!-- Bootstrap jQuery -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script type="text/javascript" src="js/owl.carousel.js"></script>
+	<!-- PrettyPhoto -->
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+	<!-- Bxslider -->
+	<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+	<!-- Isotope -->
+	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+	<!-- Wow Animation -->
+	<script type="text/javascript" src="js/wow.min.js"></script>
+	<!-- SmoothScroll -->
+	<script type="text/javascript" src="js/smoothscroll.js"></script>
+	<!-- Animated Pie -->
+	<script type="text/javascript" src="js/jquery.easy-pie-chart.js"></script>
+
+	<!-- Template custom -->
+	<script type="text/javascript" src="js/custom.js"></script>
+	
+
+</body></html><head><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<!-- Custom Modifications
+	================================================== -->
+
+    
+    <!-- Title -->
+    <title>Micronetworkbd</title>
+   
+    <!-- Don't Cache Website on Browser -->
+	<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="0">
+
+	<!-- Mobile Specific Metas
+	================================================== -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<!-- Favicons
+	================================================== -->
+	<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+	
+	<!-- CSS
+	================================================== -->
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Template styles-->
+	<link rel="stylesheet" href="css/style.css">
+	<!-- FontAwesome -->
+	<link rel="stylesheet" href="css/font-awesome.min.css">
+	<!-- Animation -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Prettyphoto -->
+	<link rel="stylesheet" href="css/prettyPhoto.css">
+	<!-- Owl Carousel -->
+	<link rel="stylesheet" href="css/owl.carousel.css">
+	<!-- Bxslider -->
+	<link rel="stylesheet" href="css/jquery.bxslider.css">
+
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+    <![endif]-->
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"></head><body style="">
+
+	<div class="body-inner">
+	<!-- Header start -->
+	<header id="header" class="navbar-fixed-top main-nav" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!--/ Top info start -->
+					<div class="top-info">
+						<ul class="pull-right">
+							<li><i class="fa fa-phone"></i> Call Us: 09639150107 | 01722350107 | 01626460661 | 02-55085153</li>
+							<li><i class="fa fa-envelope"></i> info@Micronetworkbd.net</li>
+							<!-- Social links -->
+							<li class="social-icon">
+								<a id="tooltip1" data-toggle="tooltip" data-placement="top" title="Twitter" href="#">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<a id="tooltip2" target="_blank" data-toggle="tooltip" data-placement="top" title="Facebook" href="#">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a id="tooltip3" href="#" data-toggle="tooltip" data-placement="top" title="Google+">
+									<i class="fa fa-google-plus"></i>
+								</a>
+								<a id="tooltip4" href="#" data-toggle="tooltip" data-placement="top" title="Dribble">
+									<i class="fa fa-dribbble"></i>
+								</a>
+							</li><!-- Social links end-->
+						</ul>
+					</div><!--/ Top info end -->
+
+					<!-- Logo start -->
+					<div class="navbar-header">
+					    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					    </button>
+					    <a class="navbar-brand" href="index.html">
+					    	<img class="img-responsive" src="images/logo.png" width="180" height="30" alt="logo">
+					    </a>                    
+					</div><!--/ Logo end -->
+
+						<nav class="collapse navbar-collapse clearfix" role="navigation">
+						<ul class="nav navbar-nav navbar-right">
+	                        <li class="active"><a href="index.html">Home</a></li>
+	                       	<li><a href="about.html">About</a></li>
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">FTP SERVER <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://10.16.100.244/">FTP 01</a></li>
+		                            <li><a target="_blank" href="http://103.58.73.7/">FTP 02 </a></li>
+		                            <li><a target="_blank" href="http://hmidiplex.ne/">FTP 03</a></li>
+									<li><a target="_blank" href="http://172.22.22.76/">TV Chanel</a></li>
+									<li><a target="_blank" href="http://103.214.156.2/">TV Chanel 02</a></li>
+								</ul>
+	                       	</li>
+							
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Bdix <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://www.crazyhd.com/">CARZYHD</a></li>
+                                   	<li><a target="_blank" href="http://www.torrentbd.com/">Torrent Servers</a></li>
+                                   	<li><a target="_blank" href="http://www.yts.am/">YTS</a></li>
+                                    <li><a target="_blank" href="http://new.naturalbd.com/live-tv.html/">Micronetworkbd Live TV</a></li>
+                                   	<li><a target="_blank" href="http://www.jagobd.com/">Jagobd</a></li>
+                                   	<li><a target="_blank" href="http://www.bioscopelive.com/">Bioscope Live</a></li>
+		                        </ul>
+							</li>
+							
+	                       	<li>
+	                       		<a href="price.html" class="dropdown-toggle">Packages</a>
+	                       	</li>
+							
+                            <li class="dropdown">
+	                       		<a href="contact.html" class="dropdown-toggle">Contact <i class="fa fa-caret-down"></i></a>
+							</li>
+	                    </ul>
+					</nav><!--/ Navigation end -->
+					
+					<div class="site-search">
+						<div class="container">
+							<input type="text" placeholder="type what you want and enter">
+							<span class="close">×</span>
+						</div>
+					</div>
+				</div><!--/ Col end -->
+			</div><!--/ Row end -->
+		</div><!--/ Container end -->
+	</header><!--/ Header end -->
+<!-- Slider start -->
+	<section id="home">	
+		<!-- Carousel -->
+    	<div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item active">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><!-- /carousel -->    	
+    </section>
+    <!--/ Slider end -->
+	<div class="gap-40"></div>
+
+	<!-- Service box start -->
+    <section id="service" class="wow fadeInUp animated" style="visibility: visible;">
+    	<div class="container">
+    		<div class="row">
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comment img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Online Support</h3>
+					    <p>We also give our Clients Online Support, regarding technical issue's that they are facing from their end.</p>
+					</div>
+				</div><!--/ End first service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comments-o img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>24/7 Customer Care Support</h3>
+					    <p>We provide 24/7 Helpdesk Support on all our Branches.</p>
+					</div>
+				</div><!--/ End 3rd service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content last">
+					    <a href="#."><span class="service-icon"><i class="fa fa-gears (alias) img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Additional Media Services</h3>
+					    <p>Other than the Internet Connection, we also provide Media Services such as - FTP Server, Streaming Server, Torrent Servers, Live TV Server.</p>
+					</div>
+				</div><!--/ End 4th service -->
+    		</div>
+    	</div>
+    </section><!-- Service box end -->
+
+
+
+   <!-- Features start -->
+    <section id="features">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-sm-6 wow fadeInLeft" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-image">
+    					<img class="img-responsive" src="images/feature-mock.png" width="200" height="80" alt="feature img" title="">
+    				</div>
+    			</div>
+
+    			<div class="col-sm-6 wow fadeInRight" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-wrapper">
+	    				<div class="feature-content-wrapper">
+	    					<h2>We do what is necessary</h2>
+	    					<p><strong>Micronetworkbd</strong> is one of the leading High Speed Broadband Service Provider in Dhaka, Bangladesh.</p>
+
+							<div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-signal"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Internet Connectivity</h3>
+					                <p>Most of our Connections are provided via optical fibre from our end to your home and then connected via CAT-5E/CAT-6 to your PC.</p>
+					            </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa  fa-sort-amount-asc"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3><strong>100Mbps Alltime</strong></h3>
+					                <p>All of our Users can download contents that are shared from our Local Dedicated Servers at Full Duplex 100 Mbps Speed.</p>
+			            	  </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-magnet"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Why Clients Choose Us?</h3>
+					                <p>We Provide a very stable Internet connection (few disconnecting issues), rather than the Internet Connection, we also provide some Media Services which is absolutely free and Unlimited (No Fair Usage Policies).</p>
+				            	</div>
+				            </div>
+    					</div>
+    				</div>
+    			</div><!-- Features right side end -->
+    		</div><!-- Row end -->
+    	</div><!-- Container end -->
+    </section> <!-- Features end -->
+	</div><!-- Toggle end -->
+
+	<!-- Main Footer start -->
+	<section id="footer-wrapper">
+		<!-- Footer top start -->
+		<footer id="footer">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="footer-about-us">
+							<img src="images/footer-logo.png" alt="">
+							<p class="desc">
+								<strong>Technical Support
+							    <br>09639150107
+								<br>01722350107
+								<br>01626460661
+								<br>02-55085153
+								</strong>
+							</p><p class="footer-social">
+								<a href="#"><i class="fa fa-twitter"></i></a>
+								<a href="#"><i class="fa fa-facebook"></i></a>
+								<a href="#"><i class="fa fa-google-plus"></i></a>
+								<a href="#"><i class="fa fa-dribbble"></i></a>
+							</p>
+					  </div>
+					</div><!--/ end about us -->
+					
+					<div class="col-md-3">
+						<h3 class="footer-title"><span>Facebook <strong>Group</strong></span></h3>
+						<div class="facebook">
+							<div class="fb-like-box" data-href="#" data-width="300" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+							<a target="_blank" href="#" style="color:black;"><p class="facebook"><i class="fa fa-facebook-square"></i> Micronetworkbd</p></a>
+						</div>
+					</div>
+
+					<!--/ end facebook group -->
+
+					<div class="col-md-3">
+						<h3 class="footer-title"><span>Facebook <strong>Page</strong></span></h3>
+						<div class="facebook">
+							<div class="fb-like-box" data-href="#" data-width="300" data-height="300" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+							<a target="_blank" href="#" style="color:black;"><p class="facebook"><i class="fa fa-facebook-square"></i> Micronetworkbd</p></a>
+						</div>
+					</div>
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</footer><!-- Footer top end -->
+
+		<!-- Footer bottom start -->
+		<div class="footer-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 wow fadeInLeft animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						<ul class="footer-bottom-menu">
+							<li><a href="about.html">About Us</a></li>
+	                        <li><a href="contact.html">Contact Us</a></li>
+						</ul>
+					</div>
+					<div class="col-md-2">
+						<a id="back-to-top" href="#" class="scroll-up back-to-top" role="button" title="" data-toggle="tooltip" data-placement="left" data-original-title="Click to return on the top page">
+							<img class="wow flipInY animated" src="images/to-top.png" alt="" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						</a>
+					</div>
+					<div class="col-md-5 wow fadeInRight animated" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+						<div class="copyright-info">
+	         			 © Copyright 2020 | <a target="_blank" href="#">Micronetworkbd</a> <br>
+	         			<span>Developed by <a title="" href="#" target="_blank"> </a> &amp; Powered by <a title="" href="#" target="_blank"></a></span>
+	        			</div>
+					</div>
+				</div><!-- Row end -->
+			</div><!-- Container end -->
+		</div><!-- Footer bottom end -->
+	</section>
+	<!-- Footer section end -->
+
+	<!-- Javascript Files
+	================================================== -->
+	<!-- initialize jQuery Library -->
+	<script type="text/javascript" src="js/jquery.js"></script>
+	<!-- Bootstrap jQuery -->
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<!-- Owl Carousel -->
+	<script type="text/javascript" src="js/owl.carousel.js"></script>
+	<!-- PrettyPhoto -->
+	<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script>
+	<!-- Bxslider -->
+	<script type="text/javascript" src="js/jquery.bxslider.min.js"></script>
+	<!-- Isotope -->
+	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+	<!-- Wow Animation -->
+	<script type="text/javascript" src="js/wow.min.js"></script>
+	<!-- SmoothScroll -->
+	<script type="text/javascript" src="js/smoothscroll.js"></script>
+	<!-- Animated Pie -->
+	<script type="text/javascript" src="js/jquery.easy-pie-chart.js"></script>
+
+	<!-- Template custom -->
+	<script type="text/javascript" src="js/custom.js"></script>
+	
+
+</body><div class="body-inner">
+	<!-- Header start -->
+	<header id="header" class="navbar-fixed-top main-nav" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!--/ Top info start -->
+					<div class="top-info">
+						<ul class="pull-right">
+							<li><i class="fa fa-phone"></i> Call Us: 09639150107 | 01722350107 | 01626460661 | 02-55085153</li>
+							<li><i class="fa fa-envelope"></i> info@Micronetworkbd.net</li>
+							<!-- Social links -->
+							<li class="social-icon">
+								<a id="tooltip1" data-toggle="tooltip" data-placement="top" title="Twitter" href="#">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<a id="tooltip2" target="_blank" data-toggle="tooltip" data-placement="top" title="Facebook" href="#">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a id="tooltip3" href="#" data-toggle="tooltip" data-placement="top" title="Google+">
+									<i class="fa fa-google-plus"></i>
+								</a>
+								<a id="tooltip4" href="#" data-toggle="tooltip" data-placement="top" title="Dribble">
+									<i class="fa fa-dribbble"></i>
+								</a>
+							</li><!-- Social links end-->
+						</ul>
+					</div><!--/ Top info end -->
+
+					<!-- Logo start -->
+					<div class="navbar-header">
+					    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					    </button>
+					    <a class="navbar-brand" href="index.html">
+					    	<img class="img-responsive" src="images/logo.png" width="180" height="30" alt="logo">
+					    </a>                    
+					</div><!--/ Logo end -->
+
+						<nav class="collapse navbar-collapse clearfix" role="navigation">
+						<ul class="nav navbar-nav navbar-right">
+	                        <li class="active"><a href="index.html">Home</a></li>
+	                       	<li><a href="about.html">About</a></li>
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">FTP SERVER <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://10.16.100.244/">FTP 01</a></li>
+		                            <li><a target="_blank" href="http://103.58.73.7/">FTP 02 </a></li>
+		                            <li><a target="_blank" href="http://hmidiplex.ne/">FTP 03</a></li>
+									<li><a target="_blank" href="http://172.22.22.76/">TV Chanel</a></li>
+									<li><a target="_blank" href="http://103.214.156.2/">TV Chanel 02</a></li>
+								</ul>
+	                       	</li>
+							
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Bdix <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://www.crazyhd.com/">CARZYHD</a></li>
+                                   	<li><a target="_blank" href="http://www.torrentbd.com/">Torrent Servers</a></li>
+                                   	<li><a target="_blank" href="http://www.yts.am/">YTS</a></li>
+                                    <li><a target="_blank" href="http://new.naturalbd.com/live-tv.html/">Micronetworkbd Live TV</a></li>
+                                   	<li><a target="_blank" href="http://www.jagobd.com/">Jagobd</a></li>
+                                   	<li><a target="_blank" href="http://www.bioscopelive.com/">Bioscope Live</a></li>
+		                        </ul>
+							</li>
+							
+	                       	<li>
+	                       		<a href="price.html" class="dropdown-toggle">Packages</a>
+	                       	</li>
+							
+                            <li class="dropdown">
+	                       		<a href="contact.html" class="dropdown-toggle">Contact <i class="fa fa-caret-down"></i></a>
+							</li>
+	                    </ul>
+					</nav><!--/ Navigation end -->
+					
+					<div class="site-search">
+						<div class="container">
+							<input type="text" placeholder="type what you want and enter">
+							<span class="close">×</span>
+						</div>
+					</div>
+				</div><!--/ Col end -->
+			</div><!--/ Row end -->
+		</div><!--/ Container end -->
+	</header><!--/ Header end -->
+<!-- Slider start -->
+	<section id="home">	
+		<!-- Carousel -->
+    	<div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><!-- /carousel -->    	
+    </section>
+    <!--/ Slider end -->
+	<div class="gap-40"></div>
+
+	<!-- Service box start -->
+    <section id="service" class="wow fadeInUp animated" style="visibility: visible;">
+    	<div class="container">
+    		<div class="row">
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comment img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Online Support</h3>
+					    <p>We also give our Clients Online Support, regarding technical issue's that they are facing from their end.</p>
+					</div>
+				</div><!--/ End first service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content">
+					    <a href="#."><span class="service-icon"><i class="fa fa-comments-o img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>24/7 Customer Care Support</h3>
+					    <p>We provide 24/7 Helpdesk Support on all our Branches.</p>
+					</div>
+				</div><!--/ End 3rd service -->
+				<div class="col-md-4 col-sm-4">
+					<div class="service-content last">
+					    <a href="#."><span class="service-icon"><i class="fa fa-gears (alias) img-circle wow flipInX animated" style="visibility: visible;"></i></span></a>
+					    <h3>Additional Media Services</h3>
+					    <p>Other than the Internet Connection, we also provide Media Services such as - FTP Server, Streaming Server, Torrent Servers, Live TV Server.</p>
+					</div>
+				</div><!--/ End 4th service -->
+    		</div>
+    	</div>
+    </section><!-- Service box end -->
+
+
+
+   <!-- Features start -->
+    <section id="features">
+    	<div class="container">
+    		<div class="row">
+    			<div class="col-sm-6 wow fadeInLeft" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-image">
+    					<img class="img-responsive" src="images/feature-mock.png" width="200" height="80" alt="feature img" title="">
+    				</div>
+    			</div>
+
+    			<div class="col-sm-6 wow fadeInRight" style="visibility: hidden; -webkit-animation-name: none; -moz-animation-name: none; animation-name: none;">
+    				<div class="feature-wrapper">
+	    				<div class="feature-content-wrapper">
+	    					<h2>We do what is necessary</h2>
+	    					<p><strong>Micronetworkbd</strong> is one of the leading High Speed Broadband Service Provider in Dhaka, Bangladesh.</p>
+
+							<div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-signal"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Internet Connectivity</h3>
+					                <p>Most of our Connections are provided via optical fibre from our end to your home and then connected via CAT-5E/CAT-6 to your PC.</p>
+					            </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa  fa-sort-amount-asc"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3><strong>100Mbps Alltime</strong></h3>
+					                <p>All of our Users can download contents that are shared from our Local Dedicated Servers at Full Duplex 100 Mbps Speed.</p>
+			            	  </div>
+				            </div>
+				            <div class="feature-box clearfix">
+				                <div class="feature-icon pull-left">
+				                    <i class="fa fa-magnet"></i>
+				                </div>
+				                <div class="feature-box-content">
+					                <h3>Why Clients Choose Us?</h3>
+					                <p>We Provide a very stable Internet connection (few disconnecting issues), rather than the Internet Connection, we also provide some Media Services which is absolutely free and Unlimited (No Fair Usage Policies).</p>
+				            	</div>
+				            </div>
+    					</div>
+    				</div>
+    			</div><!-- Features right side end -->
+    		</div><!-- Row end -->
+    	</div><!-- Container end -->
+    </section> <!-- Features end -->
+	</div><!-- Header start --><header id="header" class="navbar-fixed-top main-nav" role="banner">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<!--/ Top info start -->
+					<div class="top-info">
+						<ul class="pull-right">
+							<li><i class="fa fa-phone"></i> Call Us: 09639150107 | 01722350107 | 01626460661 | 02-55085153</li>
+							<li><i class="fa fa-envelope"></i> info@Micronetworkbd.net</li>
+							<!-- Social links -->
+							<li class="social-icon">
+								<a id="tooltip1" data-toggle="tooltip" data-placement="top" title="Twitter" href="#">
+									<i class="fa fa-twitter"></i>
+								</a>
+								<a id="tooltip2" target="_blank" data-toggle="tooltip" data-placement="top" title="Facebook" href="#">
+									<i class="fa fa-facebook"></i>
+								</a>
+								<a id="tooltip3" href="#" data-toggle="tooltip" data-placement="top" title="Google+">
+									<i class="fa fa-google-plus"></i>
+								</a>
+								<a id="tooltip4" href="#" data-toggle="tooltip" data-placement="top" title="Dribble">
+									<i class="fa fa-dribbble"></i>
+								</a>
+							</li><!-- Social links end-->
+						</ul>
+					</div><!--/ Top info end -->
+
+					<!-- Logo start -->
+					<div class="navbar-header">
+					    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					        <span class="sr-only">Toggle navigation</span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					        <span class="icon-bar"></span>
+					    </button>
+					    <a class="navbar-brand" href="index.html">
+					    	<img class="img-responsive" src="images/logo.png" width="180" height="30" alt="logo">
+					    </a>                    
+					</div><!--/ Logo end -->
+
+						<nav class="collapse navbar-collapse clearfix" role="navigation">
+						<ul class="nav navbar-nav navbar-right">
+	                        <li class="active"><a href="index.html">Home</a></li>
+	                       	<li><a href="about.html">About</a></li>
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown">FTP SERVER <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://10.16.100.244/">FTP 01</a></li>
+		                            <li><a target="_blank" href="http://103.58.73.7/">FTP 02 </a></li>
+		                            <li><a target="_blank" href="http://hmidiplex.ne/">FTP 03</a></li>
+									<li><a target="_blank" href="http://172.22.22.76/">TV Chanel</a></li>
+									<li><a target="_blank" href="http://103.214.156.2/">TV Chanel 02</a></li>
+								</ul>
+	                       	</li>
+							
+							<li class="dropdown">
+	                       		<a href="#" class="dropdown-toggle" data-toggle="dropdown"> Bdix <i class="fa fa-caret-down"></i></a>
+								<ul class="dropdown-menu">
+		                            <li><a target="_blank" href="http://www.crazyhd.com/">CARZYHD</a></li>
+                                   	<li><a target="_blank" href="http://www.torrentbd.com/">Torrent Servers</a></li>
+                                   	<li><a target="_blank" href="http://www.yts.am/">YTS</a></li>
+                                    <li><a target="_blank" href="http://new.naturalbd.com/live-tv.html/">Micronetworkbd Live TV</a></li>
+                                   	<li><a target="_blank" href="http://www.jagobd.com/">Jagobd</a></li>
+                                   	<li><a target="_blank" href="http://www.bioscopelive.com/">Bioscope Live</a></li>
+		                        </ul>
+							</li>
+							
+	                       	<li>
+	                       		<a href="price.html" class="dropdown-toggle">Packages</a>
+	                       	</li>
+							
+                            <li class="dropdown">
+	                       		<a href="contact.html" class="dropdown-toggle">Contact <i class="fa fa-caret-down"></i></a>
+							</li>
+	                    </ul>
+					</nav><!--/ Navigation end -->
+					
+					<div class="site-search">
+						<div class="container">
+							<input type="text" placeholder="type what you want and enter">
+							<span class="close">×</span>
+						</div>
+					</div>
+				</div><!--/ Col end -->
+			</div><!--/ Row end -->
+		</div><!--/ Container end -->
+	</header><!--/ Header end --><!-- Slider start --><section id="home">	
+		<!-- Carousel -->
+    	<div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><!-- /carousel -->    	
+    </section><!-- Carousel --><div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><div id="main-slide" class="carousel slide" data-ride="carousel">
+
+			<!-- Indicators -->
+			<ol class="carousel-indicators">
+			</ol><!--/ Indicators end-->
+
+			<!-- Carousel inner -->
+			<div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><!-- Carousel inner end-->
+
+			<!-- Controls -->
+			<a class="left carousel-control" href="#main-slide" data-slide="prev">
+		    	<span><i class="fa fa-angle-left"></i></span>
+			</a>
+			<a class="right carousel-control" href="#main-slide" data-slide="next">
+		    	<span><i class="fa fa-angle-right"></i></span>
+			</a>
+		</div><!-- Indicators --><ol class="carousel-indicators">
+			</ol><!--/ Indicators end--><!-- Carousel inner --><div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div><div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end --><div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><img class="img-responsive" src="images/slider/04.jpg" alt="slider"><div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div><div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end --><div class="item">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><div class="carousel-inner">
+			    <div class="item">
+			    	<img class="img-responsive" src="images/slider/01.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                    		<h2 class="animated2">
+                    		    <span><b>Welcome to</b><p></p>
+                        		<br><strong>Micronetworkbd</strong></span>
+                        	</h2>
+                            <h3 class="animated3">
+                            	<span><b>We Deliver More then We Promise</b></span>
+                            </h3>
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			    
+				<div class="item">
+			    	<img class="img-responsive" src="images/slider/04.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+
+				<div class="item active">
+			    	<img class="img-responsive" src="images/slider/03.jpg" alt="slider">
+                    <div class="slider-content">
+                        <div class="col-md-12 text-center">
+                        </div>
+                    </div>
+			    </div><!--/ Carousel item end -->
+			</div>
